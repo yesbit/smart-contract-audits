@@ -1,2 +1,12 @@
 # smart-contract-audits
-Yesbit Oracle, KrawlCat Medianizer and PriceFeed smart contract audit
+
+This repo has the following smart contract audits: 
+
+1. Yesbit Oracle
+
+2. KrawlCat Medianizer 
+
+3. KrawlCat PriceFeed 
+
+
+Audit is conducted by Solidified (solidified.io)
